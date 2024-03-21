@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.84999999999999998"/>
+  <property name="color-cursor" type="string" value="#a5a51d1d2d2d"/>
+  <property name="color-cursor-use-default" type="bool" value="false"/>
+  <property name="color-palette" type="string" value="rgb(118,116,106);rgb(90,84,80);rgb(91,80,82);rgb(153,108,65);rgb(80,82,109);rgb(96,140,142);rgb(174,174,169);rgb(124,164,196);rgb(124,164,196);rgb(120,125,115);rgb(96,140,142);rgb(80,82,109);rgb(153,108,65);rgb(91,80,82);rgb(90,84,80);rgb(118,116,106)"/>
+  <property name="font-name" type="string" value="Monospace 11"/>
+  <property name="font-use-system" type="bool" value="true"/>
+  <property name="misc-always-show-tabs" type="bool" value="false"/>
+  <property name="misc-bell" type="bool" value="false"/>
+  <property name="misc-bell-urgent" type="bool" value="false"/>
+  <property name="misc-borders-default" type="bool" value="true"/>
+  <property name="misc-cursor-blinks" type="bool" value="true"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-default-geometry" type="string" value="80x24"/>
+  <property name="misc-inherit-geometry" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-mouse-autohide" type="bool" value="false"/>
+  <property name="misc-mouse-wheel-zoom" type="bool" value="true"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
+  <property name="misc-cycle-tabs" type="bool" value="true"/>
+  <property name="misc-tab-close-buttons" type="bool" value="true"/>
+  <property name="misc-tab-close-middle-click" type="bool" value="true"/>
+  <property name="misc-tab-position" type="string" value="GTK_POS_TOP"/>
+  <property name="misc-highlight-urls" type="bool" value="true"/>
+  <property name="misc-middle-click-opens-uri" type="bool" value="false"/>
+  <property name="misc-copy-on-select" type="bool" value="false"/>
+  <property name="misc-show-relaunch-dialog" type="bool" value="true"/>
+  <property name="misc-rewrap-on-resize" type="bool" value="true"/>
+  <property name="misc-slim-tabs" type="bool" value="false"/>
+  <property name="misc-new-tab-adjacent" type="bool" value="false"/>
+  <property name="misc-search-dialog-opacity" type="uint" value="100"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="title-initial" type="string" value="St"/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_HIDE"/>
+  <property name="scrolling-unlimited" type="bool" value="true"/>
+</channel>

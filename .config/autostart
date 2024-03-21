@@ -1,0 +1,11 @@
+#!/bin/sh
+
+dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY
+			
+remaps &		
+xcompmgr &	
+thunar --daemon &	
+xset r rate 300 50 &
+numlockx &
+hsetroot -fill ~/Wallpapers/01.png &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
